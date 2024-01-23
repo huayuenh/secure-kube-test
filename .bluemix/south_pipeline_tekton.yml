@@ -59,7 +59,7 @@ properties:
     name: ibmcloud-api
     value: ${IBMCLOUD_API}
   - type: text
-    name: ibmcloud-api-cluster-env
+    name: ibmcloud-api-deployment-env
     value: ${IBMCLOUD_API}
   - type: secure
     name: toolchain-apikey
